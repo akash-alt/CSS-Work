@@ -1,0 +1,72 @@
+/*#btn-facebook{
+    background-color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+/*
+#btn-facebook:hover{
+    background-color: rgb(218, 148, 148);
+    color: fuchsia;
+}*/
+
+/*#btn-google {
+    background-color: rgb(122, 13, 13);
+  /*  border: 2px solid rgb(168, 181, 223); 
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    outline:none;
+    cursor: pointer;
+}
+/*
+#btn-google:hover{
+    background-color: rgb(231, 171, 171);
+    
+} */
+
+/*#btn-github{
+    background-color: ;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+/*
+#btn-github:hover{
+    background-color: rgb(218, 148, 148);
+    color: fuchsia;
+} 
+
+.label {
+    padding-left: 8px;
+}  */
+
+
+button{
+    color: white ;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    
+}
+
+#btn-facebook{
+    background-color: blue;
+}
+
+#btn-google{
+    background-color: coral;
+}
+
+#btn-github{
+    background-color: black;
+}
+
+.label{
+    padding-left: 8px;
+}

@@ -1,0 +1,53 @@
+#Planet-list {
+    background-color: lightcoral;
+    padding: 24px 48px;
+    color: chartreuse;
+}
+
+#ordered-list {
+    list-style-type: lower-roman;
+    width: 600;
+    list-style-position: inside;
+}
+
+#unordered-list {
+
+    list-style-type: none;
+    padding-left: 0;
+}
+
+body {
+    margin: 0;
+}
+
+#topbar {
+    
+    background-color: lightblue; /* here is using "color" option for the background */
+    padding: 24px 48px;
+    
+    
+}
+
+.menu-item {
+    font-size: 24px;
+    margin-right: 24px;
+    text-decoration: none;
+    color: black;     /* here is using "color" option for the text */
+}
+
+.menu-item:link{
+    color: cornflowerblue; 
+}
+
+.menu-item:visited{
+    color: darkgoldenrod;
+}
+
+.menu-item:hover{
+    color: red
+}
+
+.menu-item:active{
+    color: seagreen;
+}
+
